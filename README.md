@@ -1,4 +1,4 @@
-# Syllabus for SC 3260/5260, Spring 2016
+# Syllabus for SC 3260/5260, Spring 2017
 
 This course is intended to give students hands-on scientific computing experience. 
 Students will use the Vanderbilt ACCRE computing facility to perform tasks derived 
@@ -59,7 +59,7 @@ I will never use a curve to lower your grade, only to raise it.
 
 ## Final Grade
 
-Your final grade will be determined as follows: class participation (10%), homework/quiz (50%), mid-term (20%), and a final project (20%). 
+Your final grade will be determined as follows: class participation (10%), homeworks/quiz (50%), mid-term (20%), and a final project (20%). 
 **Note that homework plays a significant role in your final grade!!!** Also note that missing class will affect your participation
 grade! 
 
